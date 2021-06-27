@@ -2,3 +2,4 @@
 
 Basic Tic Tac Toe Game Without using Cursor
 
+Technology : C
